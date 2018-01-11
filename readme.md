@@ -12,3 +12,6 @@ Data Sources:
 * https://musicbrainz.org/doc/MusicBrainz_Database - Music database which we can download. It looks like the base DB they provide is for PostgreSql but from their official site they link to https://github.com/elliotchance/mbzdb which is the same for MySql. It’s one of the approved sources
 * https://github.com/guoguo12/billboard-charts - A python library that allows reading the billboard chart (by date and by genre). Will allow us to easily download the entire database into our DB
 * https://lyricsovh.docs.apiary.io/ - A site that allows downloading song lyrics (if we want the “Free text search”
+
+
+
